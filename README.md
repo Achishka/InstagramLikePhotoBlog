@@ -1,2 +1,1 @@
-# InstagramLikePhotoBlog
-Simply photo-blog using Rails platform
+Rails blog
